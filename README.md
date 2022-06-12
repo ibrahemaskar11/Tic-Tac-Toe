@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
--Simple Tic Tac Toe game built using vanilla javaScript ,HTML ,and CSS
+-Tic Tac Toe game built using vanilla javaScript ,HTML ,and CSS
 
 # installation and launch steps
 
